@@ -2,6 +2,13 @@
 
 Demo-link:https://cryptohunt.netlify.app/
 
+Screen-shot:
+![Screenshot (10)](https://user-images.githubusercontent.com/55054295/196918132-72e7d0ba-aa44-4e93-af73-de0e8281e6bd.png)
+
+Login-Page:
+![Screenshot (11)](https://user-images.githubusercontent.com/55054295/196918513-6aa47de8-19f9-43a7-b812-02f5c3b1a7a1.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
