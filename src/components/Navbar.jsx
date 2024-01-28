@@ -46,7 +46,7 @@ const Navbar = () => {
             <div className='logo-container'>
                 <Avatar src={icon} size/>
                 <Typography.Title level={2} className="logo" >
-                    <Link to="/" style={{"color":"#FFC23C","textDecorationLine":"overline"}}> CryptoHunter</Link>
+                    <Link to="/" style={{"color":"#FFC23C","textDecorationLine":"overline"}}> CryptoExplorer</Link>
                 </Typography.Title>
                 <Button className="menu-control-container" onClick={() => setActiveMenu(!activeMenu)}>< AlignRightOutlined /></Button>
             </div>
